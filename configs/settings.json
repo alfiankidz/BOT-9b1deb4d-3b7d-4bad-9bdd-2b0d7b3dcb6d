@@ -1,0 +1,8 @@
+{
+    "namaBot": "Pian-BOT",
+    "prefix": ".",
+    "botNum": "62895612690606",
+    "allowed": ["62895360702055","62895364841932","6289671740464"],
+    "KEY_OPENAI": "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",
+    "dev": true
+}
